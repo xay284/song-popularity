@@ -1,0 +1,10 @@
+subset,tracks,features,R2,MAE,Spearman
+all tracks (incl. 0),89740,Audio only,0.109 ± 0.016,15.53,0.332
+all tracks (incl. 0),89740,Genre only,0.343 ± 0.011,11.80,0.604
+all tracks (incl. 0),89740,Audio + genre,0.358 ± 0.013,11.72,0.618
+popularity > 0 (main),80393,Audio only,0.165 ± 0.018,13.24,0.407
+popularity > 0 (main),80393,Genre only,0.435 ± 0.016,9.77,0.678
+popularity > 0 (main),80393,Audio + genre,0.457 ± 0.019,9.56,0.698
+popularity > 5 (strict),77690,Audio only,0.206 ± 0.021,12.46,0.447
+popularity > 5 (strict),77690,Genre only,0.564 ± 0.019,8.61,0.747
+popularity > 5 (strict),77690,Audio + genre,0.586 ± 0.018,8.40,0.764

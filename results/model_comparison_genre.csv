@@ -1,0 +1,5 @@
+split,features,R2,MAE,Spearman
+by song,Genre only,0.465 ± 0.008,9.52,0.697
+by song,Audio + genre,0.490 ± 0.006,9.26,0.719
+by lead artist,Genre only,0.435 ± 0.016,9.77,0.678
+by lead artist,Audio + genre,0.457 ± 0.019,9.56,0.698

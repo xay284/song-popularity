@@ -1,0 +1,7 @@
+split,model,R2,MAE,Spearman
+by song,Mean baseline,-0.000 ± 0.000,15.15,nan
+by song,Ridge,0.075 ± 0.001,14.33,0.268
+by song,LightGBM,0.184 ± 0.001,13.07,0.426
+by lead artist,Mean baseline,-0.004 ± 0.004,15.16,nan
+by lead artist,Ridge,0.069 ± 0.018,14.37,0.263
+by lead artist,LightGBM,0.165 ± 0.018,13.24,0.407
